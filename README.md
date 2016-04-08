@@ -6,7 +6,7 @@ a place to get familiar with git and github
 
 Many folks at Esri have been using git (or another version control) for years, but we're always onboarding new contributors.  This repository is a place to get familiar with the [github flow](https://guides.github.com/introduction/flow/) without worrying about production code.
 
-## This is a tpyo
+## This is a typo
 
 ## Resources / Cheatsheets
 
