@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "John!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.183,
+          34.056
+        ]
+      }
+    }
+  ]
+}
