@@ -44,4 +44,4 @@ limitations under the License.
 
 A copy of the license is available in the repository's [license]( https://raw.githubusercontent.com/Esri/sandbox/master/LICENSE) file.
 
-This is not a typo.
+This is a tpyo.
