@@ -2,6 +2,9 @@
 
 a place to get familiar with git and github
 
+[link](http://google.com)
+![frank zappa](http://www.themarysue.com/wp-content/uploads/2014/02/zappa.jpg)
+
 ## Description
 
 Many folks at Esri have been using git (or another version control) for years, but we're always onboarding new contributors.  This repository is a place to get familiar with the [github flow](https://guides.github.com/introduction/flow/) without worrying about production code.
