@@ -2,11 +2,8 @@
 
 a place to get familiar with git and github
 
-![cat](http://placekitten.com/g/200/300)
-![cat](http://placekitten.com/g/200/300)
-![cat](http://placekitten.com/g/200/300)
-![cat](http://placekitten.com/g/200/300)
-![cat](http://placekitten.com/g/200/300)
+![cat](http://lorempixel.com/g/200/300/cats)
+![frank-zappa](http://www.themarysue.com/wp-content/uploads/2014/02/zappa.jpg)
 
 ## Description
 
