@@ -13,6 +13,19 @@
           34.056
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pat!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
     }
   ]
 }
