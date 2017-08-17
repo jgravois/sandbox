@@ -26,6 +26,19 @@
           0
         ]
       }
+    },
+	 {
+      "type": "Feature",
+      "properties": {
+        "Name": "GLX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0,
+          0.0
+        ]
+      }
     }
   ]
 }
