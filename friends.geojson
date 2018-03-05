@@ -13,32 +13,6 @@
           34.056
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Pat!"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      }
-    },
-	 {
-      "type": "Feature",
-      "properties": {
-        "Name": "GLX"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          118.0,
-          0.0
-        ]
-      }
     }
   ]
 }
