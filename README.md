@@ -1,4 +1,5 @@
 # sandbox
+![A Cute Cat](http://placekitten.com/200/300)
 
 a place to get familiar with git and github
 
