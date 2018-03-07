@@ -1,4 +1,5 @@
 # sandbox
+![zappa](http://www.themarysue.com/wp-content/uploads/2014/02/zappa.jpg)
 
 a place to get familiar with git and github
 
