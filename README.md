@@ -1,6 +1,6 @@
 # sandbox
 
-![A Cute Cat](http://placekitten.com/200/300)
+![A Cute Cat](http://placekittens.com/200/300)
 ![zappa](http://www.themarysue.com/wp-content/uploads/2014/02/zappa.jpg)
 
 a place to get familiar with git and github
