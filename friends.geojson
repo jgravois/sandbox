@@ -4,6 +4,19 @@
     {
       "type": "Feature",
       "properties": {
+        "Name": "David!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.075,
+          40.588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Name": "John!"
       },
       "geometry": {
