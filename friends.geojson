@@ -27,6 +27,19 @@
         ]
       }
     },
+     {
+      "type": "Feature",
+      "properties": {
+        "Name": "Rachel!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.183,
+          34.056
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
